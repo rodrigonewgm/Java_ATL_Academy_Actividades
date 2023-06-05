@@ -3,5 +3,5 @@
     "question": "¿Cuál es la raza de perro más pequeña del mundo?",
     "options": ["Chihuahua", "Pomerania", "Yorkshire Terrier"],
     "answer": 2,
-    "explanation": "El Yorkshire Terrier es la raza de perro más pequeña del mundo, originaria de Inglaterra y popular por su tamaño y su pelaje suave y sedoso."
+    "explanation": "El Yorkshire Terrier es la raza de perro más pequeña, originaria de Inglaterra y popular por su tamaño y su pelaje suave y sedoso."
   }
