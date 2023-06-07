@@ -1,5 +1,3 @@
-Lunes 5 de junio del 2023
+ATL Academy
 # Java_ATL_Academy_Actividades
-Actividades del bootcamp de Java en ATL Academy. Dirigido por Lucas Moy.
-Actividad 1
-Actividad 2
+Actividades del bootcamp de Java. Dirigido por Lucas Moy.
