@@ -28,7 +28,7 @@ public class Cuenta {
 
     public String mostrarDatosCuenta() {
         return "Cuenta{" +
-                "titular=" + titular +
+                "titular=" + titular.getNombre() +
                 ", cantidad=" + cantidad +
                 '}';
     }

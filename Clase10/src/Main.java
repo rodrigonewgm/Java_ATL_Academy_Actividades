@@ -45,5 +45,7 @@ public class Main {
         }
 
         Cuenta cuenta1 = new Cuenta(persona,800);
+        cuenta1.retirar(100);
+        System.out.println(cuenta1.mostrarDatosCuenta());
     }
 }
